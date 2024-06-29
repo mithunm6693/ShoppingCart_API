@@ -16,46 +16,7 @@ namespace ShoppingCart
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen(options =>
-            {
-
-                options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
-                {
-                    Title = "Demo",
-                    Version = "v1"
-
-                });
-
-                options.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
-                {
-                    In = Microsoft.OpenApi.Models.ParameterLocation.Header,
-                    Scheme = "bearer",
-                    Name = "Authorization",
-                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
-                    Description = "Enter Token Here.."
-
-                });
-
-                options.AddSecurityRequirement(new OpenApiSecurityRequirement
-    {
-            {
-            new OpenApiSecurityScheme{
-
-            Reference = new OpenApiReference
-            {
-               Type=ReferenceType.SecurityScheme,
-                Id="Bearer"
-            }
-
-            },
-
-            []
-            }
-
-    });
-
-
-            });
+            builder.Services.AddSwaggerGen();
 
             //add athentication 
 
@@ -64,13 +25,13 @@ namespace ShoppingCart
             // add db context
 
             builder.Services.AddDbContext<StoreContext>(options =>
-            {
-                options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-            });
+         {
+             options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
+         });
 
             // configure identity api end points
 
-
+            builder.Services.AddCors();
 
             var app = builder.Build();
 
@@ -82,6 +43,11 @@ namespace ShoppingCart
             }
 
             // map the indentity end points
+
+            app.UseCors(options =>
+            {
+                options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000", "http://localhost:3005");
+            });
 
 
             app.UseHttpsRedirection();
