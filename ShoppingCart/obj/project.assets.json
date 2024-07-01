@@ -3130,11 +3130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+      "projectUniqueName": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\ShoppingCart.csproj",
       "projectName": "ShoppingCart",
-      "projectPath": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+      "projectPath": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\ShoppingCart.csproj",
       "packagesPath": "C:\\Users\\m.mahibal\\.nuget\\packages\\",
-      "outputPath": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\ShoppingCart\\obj\\",
+      "outputPath": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.mahibal\\AppData\\Roaming\\NuGet\\NuGet.Config",

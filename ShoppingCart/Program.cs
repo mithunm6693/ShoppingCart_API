@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using ShoppingCart.Data;
+using ShoppingCart.Middleware;
 
 namespace ShoppingCart
 {
@@ -35,6 +36,8 @@ namespace ShoppingCart
 
             var app = builder.Build();
 
+            app.UseMiddleware<ExceptionMiddleware>();
+
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
@@ -46,7 +49,7 @@ namespace ShoppingCart
 
             app.UseCors(options =>
             {
-                options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000", "http://localhost:3005");
+                options.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000", "http://localhost:3001");
             });
 
 
