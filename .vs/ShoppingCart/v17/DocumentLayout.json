@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\data\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\data\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\data\\migrations\\20240712043829_basketenitty2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\data\\migrations\\20240712043829_basketenitty2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|c:\\study projects\\dotnet\\shoppingcart_api\\shoppingcart\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB8A555-BF3A-4D02-B822-753DCEB2139E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +66,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "ShoppingCart\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "ShoppingCart\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:11:07.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BugController.cs",
-              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BugController.cs",
-              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\BugController.cs",
-              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BugController.cs",
-              "RelativeToolTip": "ShoppingCart\\Controllers\\BugController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAeAAAA",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:44:04.731Z",
+              "WhenOpened": "2024-07-12T09:13:54.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "ShoppingCart\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "ShoppingCart\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\DTO\\BasketDto.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\DTO\\BasketDto.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\DTO\\BasketDto.cs",
+              "RelativeToolTip": "ShoppingCart\\DTO\\BasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:42:00.868Z",
+              "WhenOpened": "2024-07-12T06:36:35.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Program.cs",
-              "RelativeDocumentMoniker": "ShoppingCart\\Program.cs",
-              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Program.cs",
-              "RelativeToolTip": "ShoppingCart\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwCYAAAA1AAAA",
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BasketController.cs*",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\BasketController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T14:10:37.66Z",
+              "WhenOpened": "2024-07-12T04:57:48.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ShoppingCart\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ShoppingCart\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvxoAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-28T14:08:03.735Z",
+              "Title": "BugController.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BugController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\BugController.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\BugController.cs",
+              "RelativeToolTip": "ShoppingCart\\Controllers\\BugController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:58:47.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ShoppingCart\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ShoppingCart\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T14:07:50.92Z",
+              "WhenOpened": "2024-07-12T03:59:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\DTO\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\DTO\\BasketItemDto.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\DTO\\BasketItemDto.cs",
+              "RelativeToolTip": "ShoppingCart\\DTO\\BasketItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:37:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Data\\Migrations\\StoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeToolTip": "ShoppingCart\\Data\\Migrations\\StoreContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:54:57.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240712043829_BasketEnitty2.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\Migrations\\20240712043829_BasketEnitty2.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Data\\Migrations\\20240712043829_BasketEnitty2.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\Migrations\\20240712043829_BasketEnitty2.cs",
+              "RelativeToolTip": "ShoppingCart\\Data\\Migrations\\20240712043829_BasketEnitty2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:40:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Data\\StoreContext.cs",
+              "RelativeToolTip": "ShoppingCart\\Data\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:27:53.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Entities\\Product.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\Product.cs",
+              "RelativeToolTip": "ShoppingCart\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:10:42.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Entities\\BasketItem.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "ShoppingCart\\Entities\\BasketItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:08:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\Basket.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Entities\\Basket.cs",
+              "ToolTip": "C:\\Study Projects\\DotNet\\ShoppingCart_API\\ShoppingCart\\Entities\\Basket.cs",
+              "RelativeToolTip": "ShoppingCart\\Entities\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:07:22.826Z",
               "EditorCaption": ""
             }
           ]
